@@ -30,7 +30,7 @@ This project is a simple REST API built with Node.js, MongoDB, and JWT-based aut
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/agency-client-api.git
+    git clone https://github.com/Pradeepsaranbishnoi/agency-client-api
     cd agency-client-api
     ```
 
