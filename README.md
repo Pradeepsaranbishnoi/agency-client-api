@@ -176,37 +176,6 @@ All endpoints except `/api/login` require a valid JWT token in the `Authorizatio
 
     Use this token in the `Authorization` header as `Bearer <token>` for accessing protected routes.
 
-## Deployment
-
-To deploy your app to Heroku or another platform, follow the respective deployment documentation for that platform.
-
-### Deploy to Heroku
-
-1. Install the Heroku CLI.
-2. Login to Heroku via the CLI:
-
-    ```bash
-    heroku login
-    ```
-
-3. Create a Heroku app:
-
-    ```bash
-    heroku create
-    ```
-
-4. Push your code to Heroku:
-
-    ```bash
-    git push heroku master
-    ```
-
-5. Open your app:
-
-    ```bash
-    heroku open
-    ```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
